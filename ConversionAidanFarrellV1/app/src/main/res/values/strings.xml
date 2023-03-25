@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversionAidanFarrellV#1</string>
+    <string name="desc">Convert miles to kilometers using the text box below!</string>
+    <string name="input_hint">Insert a number of miles here.</string>
+    <string name="button">Convert!</string>
+    <string name="result">Waiting for Input</string>
+</resources>
